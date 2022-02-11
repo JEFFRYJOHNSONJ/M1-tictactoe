@@ -1,0 +1,123 @@
+sh: 1: cls: not found
+1.Player vs Player
+2.Player vs computer
+3.Exit
+1
+Enter player1 name:john
+Enter player2 name:dinesh
+sh: 1: cls: not found
+   |   |   
+   |   |  
+   |   |   
+-----------
+   |   |   
+   |   |  
+   |   |   
+-----------
+   |   |   
+   |   |  
+   |   |   
+Enter position 
+1
+sh: 1: cls: not found
+   |   |   
+ X |   |  
+   |   |   
+-----------
+   |   |   
+   |   |  
+   |   |   
+-----------
+   |   |   
+   |   |  
+   |   |   
+Enter position 
+3
+sh: 1: cls: not found
+   |   |   
+ X |   | O
+   |   |   
+-----------
+   |   |   
+   |   |  
+   |   |   
+-----------
+   |   |   
+   |   |  
+   |   |   
+Enter position 
+2
+sh: 1: cls: not found
+   |   |   
+ X | X | O
+   |   |   
+-----------
+   |   |   
+   |   |  
+   |   |   
+-----------
+   |   |   
+   |   |  
+   |   |   
+Enter position 
+4
+sh: 1: cls: not found
+   |   |   
+ X | X | O
+   |   |   
+-----------
+   |   |   
+ O |   |  
+   |   |   
+-----------
+   |   |   
+   |   |  
+   |   |   
+Enter position 
+5
+sh: 1: cls: not found
+   |   |   
+ X | X | O
+   |   |   
+-----------
+   |   |   
+ O | X |  
+   |   |   
+-----------
+   |   |   
+   |   |  
+   |   |   
+Enter position 
+6
+sh: 1: cls: not found
+   |   |   
+ X | X | O
+   |   |   
+-----------
+   |   |   
+ O | X | O
+   |   |   
+-----------
+   |   |   
+   |   |  
+   |   |   
+Enter position 
+
+8
+sh: 1: cls: not found
+   |   |   
+ X | X | O
+   |   |   
+-----------
+   |   |   
+ O | X | O
+   |   |   
+-----------
+   |   |   
+   | X |  
+   |   |   
+john won
+sh: 1: cls: not found
+1.Player vs Player
+2.Player vs computer
+3.Exit
